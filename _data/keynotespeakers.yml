@@ -1,24 +1,17 @@
  - image: Ted.jpg
-   name: Ted Harrington
-   title: The Hackable Method
+   name: Dustin Lehr
+   title: Making Security Fun Again: Building a Proactive Security Culture Through Behavioral Science
    bio: >- 
-        Ted Harrington is the #1 bestselling author of "Hackable", which led to his TED talk “Why You Need To Think Like a Hacker.” He’s the Executive Partner at ISE, the company of ethical hackers famous for hacking cars, medical devices, and web apps; he also co-founded START, software which simplifies vendor risk management. His clients include Google, Amazon, and Netflix, and he has been featured in more than 100 media outlets, including The Wall Street Journal, Financial Times, and Forbes. His team founded IoT Village, an event series whose hacking contest is a four-time DEF CON Black Badge winner, and he hosts the Tech Done Different podcast.
-        To get help with security testing, vendor risk management, or to book Ted as your keynote speaker, visit https://www.tedharrington.com.
+        Before shifting into cybersecurity leadership, Dustin Lehr spent 13 years as a software engineer and application architect in a variety of industries, including retail, US DoD, and even video games. This background has helped him forge close partnerships with development teams, engineering leaders, and security professionals to design programs that maximize engagement. He is currently the Sr. Director of Platform Security / Deputy CISO at Fivetran and the Co-founder / Chief Product and Technology Officer at Katilyst, which assists companies with culture change through security champion programs. Dustin also co-founded the global virtual open discussion meetup "Let's Talk Software Security!" (https://www.meetup.com/lets-talk-software-security) and authored the free Security Champion Program Success Guide (https://securitychampionsuccessguide.org).
 #  subject: 
    abstract: >-
-        Have you ever wondered how hackers think? Do you know what things most companies get wrong when trying to secure their apps? Do you know what to do instead?
-        In this keynote, you'll hear stories from the front lines of ethical hacking. Led by Ted Harrington -- #1 bestselling author of Hackable, co-founder of IoT Village, and a leader of ethical hackers -- you'll learn how to build better, more secure systems, including:
-        <ul>
-         <li>what it means to think like a hacker (and how to apply those principles)</li>
-         <li>the most common misconceptions and mistakes that people make in application security</li>
-         <li>what to do instead</li>
-        </ul>
-        You'll hear fun stories that vividly illustrate and explain the points, and learn what to do about it. Ted will be available for a book signing afterwards, too!
- - image: jason_headshot.jpg
-   name: Jason Haddix
-#  title: 
-   bio: >- 
-        Jason Haddix AKA jhaddix is the CEO and “Hacker in Charge” at Arcanum Information Security. Arcanum is a world class assessment and training company. Jason has had a distinguished 20-year career in cybersecurity previously serving as CISO of Buddobot, CISO of Ubisoft, Head of Trust/Security/Operations at Bugcrowd, Director of Penetration Testing at HP, and Lead Penetration Tester at Redspin. He has also held positions doing mobile penetration testing, network/infrastructure security assessments, and static analysis. Jason is a hacker, bug hunter and currently ranked 57th all-time on Bugcrowd’s bug bounty leaderboards. Currently, he specializes in recon, web application analysis, and emerging technologies. Jason has also authored many talks on offensive security methodology, including speaking at cons such as DEFCON, Bsides, BlackHat, RSA, OWASP, Nullcon, SANS, IANS, BruCon, Toorcon and many more.
-#   subject: 
-#   abstract: >-
+        No, it's not enough to simply satisfy minimal "check the box" compliance requirements, react to incidents, or fix security vulnerabilities after they're in production. Focusing only on the "right side" of the software development process is a recipe for eventual disaster, and is ultimately costly to pursue. You need to focus on shifting habits and behaviors to proactively address issues long before they reach production. You need to build a culture that is full of security best practices- training, threat modeling, architecture reviews, and so on.
+
+        But HOW exactly?  I'll discuss techniques for shifting your culture and motivating your employees to make the right choices by incentivizing and rewarding their behaviors. We'll focus on the "people" side, and use proven techniques from the fields of behavioral science and psychology to bring your awareness and appsec game to the next level. Security takes more than just tech and this is the piece you've been missing to make a lasting difference in your company's security posture.
+
+        You'll take away
+        - An understanding for why proactive security practices are needed and why tech is not enough to make a lasting difference
+        - Techniques for motivating your employees and developers to take action
+        - Ideas for creative rewards and incentives that make a difference
+        - What metrics to collect and report to leadership for the support you need to shift your culture
         
