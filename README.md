@@ -1,1 +1,1 @@
-# OWASP Global AppSec San Francisco 2022
+# OWASP 2024 Developer Days
